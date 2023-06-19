@@ -1,2 +1,2 @@
 Link to USACO problems
-- [...](https://github.com/seraph-yang/competitive-programming)
+- [Do You Know Your ABC's?](http://www.usaco.org/index.php?page=viewproblem2&cpid=1059)
