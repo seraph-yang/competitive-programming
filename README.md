@@ -5,7 +5,7 @@ Solutions from:
 
 # my accounts
 - [Codeforces](https://codeforces.com/profile/seraphy)
-- [USACO]()
+- [USACO]( )
 
 # setup
 - Clone repo with `git clone https://github.com/seraph-yang/competitive-programming`
