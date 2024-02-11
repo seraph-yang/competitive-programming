@@ -5,3 +5,4 @@ Link to solved problems:
 - [A. Domino Piling](https://codeforces.com/problemset/problem/50/A)
 - [A. Bit++](https://codeforces.com/problemset/problem/282/A)
 - [A. Beautiful Matrix](https://codeforces.com/problemset/problem/236/A)
+- [A. Next Round](https://codeforces.com/problemset/problem/158/A)
