@@ -4,7 +4,7 @@ Solutions from:
 - [USACO](https://usaco.org)
 
 # my accounts
-- [Codeforces](https://codeforces.com/profile/seraphy)
+- [Codeforces](https://codeforces.com/profile/seraphyang)
 - [USACO]( )
 
 # setup
