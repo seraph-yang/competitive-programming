@@ -32,3 +32,4 @@ Link to solved problems:
 - [A. Road To Zero](https://codeforces.com/contest/1342/problem/A)
 - [A. Multiplication Table](https://codeforces.com/contest/577/problem/A)
 - [B. Lecture](https://codeforces.com/contest/499/problem/B)
+- [A. The Number of Positions](https://codeforces.com/contest/124/problem/A)
