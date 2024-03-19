@@ -1,18 +1,18 @@
-# my solutions to coding problems
-Solutions from:
+### my solutions to coding problems
+solutions from:
 - [Codeforces](https://codeforces.com)
 - [USACO](https://usaco.org)
 
-# my accounts
+### my accounts
 - [Codeforces](https://codeforces.com/profile/seraphyang)
-- [USACO]( )
+- [USACO]()
 
-# setup
-- Clone repo with `git clone https://github.com/seraph-yang/competitive-programming`
-- Run program with `g++ -Wall -Werror -std=c++17 program_name.cpp`
+### setup
+- clone repo: `git clone https://github.com/seraph-yang/competitive-programming`
+- run program: `g++ -Wall -Werror -std=c++17 program_name.cpp`
 
-# requirements
-- C++ compiler
+### requirements
+- c++ compiler
 
-# license
+### license
 - [MIT](https://github.com/seraph-yang/competitive-programming/LICENSE.md)
