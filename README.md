@@ -1,11 +1,10 @@
 ### my solutions to coding problems
 solutions from:
-- [Codeforces](https://codeforces.com)
-- [USACO](https://usaco.org)
+- [codeforces](https://codeforces.com)
+- [usaco](https://usaco.org)
 
 ### my accounts
-- [Codeforces](https://codeforces.com/profile/seraphyang)
-- [USACO]()
+- [codeforces](https://codeforces.com/profile/seraphyang)
 
 ### setup
 - clone repo: `git clone https://github.com/seraph-yang/competitive-programming`
